@@ -1,4 +1,4 @@
-## Monséjour chez ALX
+## Mon séjour chez ALX
 
 Pour nous encourager à faire de choses difficiles, je vous prie de nous suivre
 
